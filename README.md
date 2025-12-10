@@ -2,6 +2,8 @@
 
 A minimalist QR code generator. Enter a URL, get a QR code, download it.
 
+**Try it:** https://qr.harrywang.me/
+
 ## Tech Stack
 
 - Next.js 15

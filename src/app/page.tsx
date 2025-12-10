@@ -10,7 +10,7 @@ export default function Home() {
 
       <div className="mt-6 mb-2 flex items-center gap-1">
         <a
-          href="https://github.com/harrywang/qrcode"
+          href="https://github.com/harrywang/just-qr"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center p-1 rounded-full hover:bg-muted transition-colors"
