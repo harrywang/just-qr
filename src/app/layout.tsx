@@ -15,6 +15,17 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Just QR",
   description: "Generate and download QR codes for any URL",
+  openGraph: {
+    title: "Just QR",
+    description: "Generate and download QR codes for any URL",
+    images: ["/og.png"],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Just QR",
+    description: "Generate and download QR codes for any URL",
+    images: ["/og.png"],
+  },
 };
 
 export default function RootLayout({
